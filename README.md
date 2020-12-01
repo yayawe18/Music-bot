@@ -64,8 +64,7 @@ loop, to enable or disable the repeat function.
 volume <1 - 100>, change the volume.
 skip, skip to next music.
 stop, stop all music.
-filter <filter>, add / remove filters.
-w-filters, see filters.
+
 ```
 
 ### 💡 General commands
